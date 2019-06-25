@@ -1,0 +1,5562 @@
+{
+copyright = "Copyright David Neustadt 2009-2019";
+customParameters = (
+{
+name = description;
+value = "too tired for description :(";
+},
+{
+name = license;
+value = "The FontStruction \U201csloped\U201d (https://fontstruct.com/fontstructions/show/185275) by David Neustadt is licensed under a Creative Commons Attribution Non-commercial No Derivatives license (http://creativecommons.org/licenses/by-nc-nd/3.0/).\r\n\U201csloped\U201d was originally cloned (copied) from the FontStruction \U201csteep\U201d (https://fontstruct.com/fontstructions/show/185027) by David Neustadt, which is licensed under a Creative Commons Attribution Non-commercial No Derivatives license (http://creativecommons.org/licenses/by-nc-nd/3.0/).";
+},
+{
+name = licenseURL;
+value = "http://creativecommons.org/licenses/by-nc-nd/3.0/";
+},
+{
+name = vendorID;
+value = FSTR;
+},
+{
+name = fontstructID;
+value = 185275;
+},
+{
+name = fontstructKey;
+value = 31ef4c768fa193a267c1780d67b085bdcc6f8159;
+},
+);
+date = "2019-06-25 06:06:01 +0200";
+designer = "David Neustadt";
+designerURL = "/fontstructors/79040";
+familyName = sloped;
+disablesAutomaticAlignment = 1;
+fontMaster = (
+{
+ascender = 1800;
+capHeight = 0;
+customParameters = (
+{
+name = typoAscender;
+value = 1800;
+},
+{
+name = typoDescender;
+value = -240;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = underlinePosition;
+value = -240;
+},
+);
+descender = -240;
+id = 185275;
+weightValue = 400;
+widthValue = 5;
+xHeight = 1200;
+},
+);
+glyphs = (
+{
+glyphname = space;
+unicode = 0020;
+layers = (
+{
+layerId = 185275;
+name = Regular;
+width = 720;
+},
+);
+},
+{
+glyphname = exclam;
+unicode = 0021;
+layers = (
+{
+layerId = 185275;
+name = Regular;
+width = 600;
+components = (
+{
+name = "brick-12";
+transform = "{0.24,0,0,0.1342776,120,1440}";
+},
+{
+name = "brick-151";
+transform = "{0.24,0,0,0.1342776,0,1560}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,1320}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,0,1440}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,240,1320}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,1200}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,720}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,840}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,720}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,840}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,1200}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,960}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,1080}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,960}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,1080}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,120}";
+},
+{
+name = "brick-12";
+transform = "{0.24,0,0,0.1342776,120,240}";
+},
+{
+name = "brick-151";
+transform = "{0.24,0,0,0.1342776,0,360}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,120}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,0,240}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,240,120}";
+},
+{
+name = "brick-159";
+transform = "{0.24,0,0,0.1342776,120,0}";
+},
+{
+name = "brick-153";
+transform = "{0.24,0,0,0.1342776,120,-120}";
+},
+{
+name = "brick-14";
+transform = "{0.24,0,0,0.1342776,0,0}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,240,0}";
+},
+{
+name = "brick-159";
+transform = "{0.24,0,0,0.1342776,120,600}";
+},
+{
+name = "brick-153";
+transform = "{0.24,0,0,0.1342776,120,480}";
+},
+{
+name = "brick-14";
+transform = "{0.24,0,0,0.1342776,0,600}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,240,600}";
+},
+);
+},
+);
+},
+{
+glyphname = comma;
+unicode = 002C;
+layers = (
+{
+layerId = 185275;
+name = Regular;
+width = 600;
+components = (
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,120}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,240,-120}";
+},
+{
+name = "brick-12";
+transform = "{0.24,0,0,0.1342776,120,240}";
+},
+{
+name = "brick-151";
+transform = "{0.24,0,0,0.1342776,0,360}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,120}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,0,240}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,240,120}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,120,0}";
+},
+{
+name = "brick-159";
+transform = "{0.24,0,0,0.1342776,0,0}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,240,0}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,120,-120}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,240,-240}";
+},
+{
+name = "brick-151";
+transform = "{0.24,0,0,0.1342776,0,-120}";
+},
+{
+name = "brick-159";
+transform = "{0.24,0,0,0.1342776,0,-240}";
+},
+);
+},
+);
+},
+{
+glyphname = period;
+unicode = 002E;
+layers = (
+{
+layerId = 185275;
+name = Regular;
+width = 600;
+components = (
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,120}";
+},
+{
+name = "brick-12";
+transform = "{0.24,0,0,0.1342776,120,240}";
+},
+{
+name = "brick-151";
+transform = "{0.24,0,0,0.1342776,0,360}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,120}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,0,240}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,240,120}";
+},
+{
+name = "brick-159";
+transform = "{0.24,0,0,0.1342776,120,0}";
+},
+{
+name = "brick-153";
+transform = "{0.24,0,0,0.1342776,120,-120}";
+},
+{
+name = "brick-14";
+transform = "{0.24,0,0,0.1342776,0,0}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,240,0}";
+},
+);
+},
+);
+},
+{
+glyphname = question;
+unicode = 003F;
+layers = (
+{
+layerId = 185275;
+name = Regular;
+width = 1200;
+components = (
+{
+name = "brick-11";
+transform = "{0.24,0,0,0.1342776,240,840}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,600,840}";
+},
+{
+name = "brick-171";
+transform = "{0.24,0,0,0.1342776,360,840}";
+},
+{
+name = "brick-175";
+transform = "{0.24,0,0,0.1342776,360,960}";
+},
+{
+name = "brick-13";
+transform = "{0.24,0,0,0.1342776,720,840}";
+},
+{
+name = "brick-140";
+transform = "{0.24,0,0,0.1342776,480,1320}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,600,960}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,960}";
+},
+{
+name = "brick-178";
+transform = "{0.24,0,0,0.1342776,600,720}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,240,720}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,480,840}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,360,720}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,600,1080}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,1080}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,360,120}";
+},
+{
+name = "brick-12";
+transform = "{0.24,0,0,0.1342776,360,240}";
+},
+{
+name = "brick-151";
+transform = "{0.24,0,0,0.1342776,240,360}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,240,120}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,240,240}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,480,120}";
+},
+{
+name = "brick-159";
+transform = "{0.24,0,0,0.1342776,360,0}";
+},
+{
+name = "brick-153";
+transform = "{0.24,0,0,0.1342776,360,-120}";
+},
+{
+name = "brick-14";
+transform = "{0.24,0,0,0.1342776,240,0}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,480,0}";
+},
+{
+name = "brick-159";
+transform = "{0.24,0,0,0.1342776,360,600}";
+},
+{
+name = "brick-153";
+transform = "{0.24,0,0,0.1342776,360,480}";
+},
+{
+name = "brick-14";
+transform = "{0.24,0,0,0.1342776,240,600}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,480,600}";
+},
+{
+name = "brick-12";
+transform = "{0.24,0,0,0.1342776,720,1320}";
+},
+{
+name = "brick-151";
+transform = "{0.24,0,0,0.1342776,600,1440}";
+},
+{
+name = "brick-161";
+transform = "{0.24,0,0,0.1342776,360,1440}";
+},
+{
+name = "brick-159";
+transform = "{0.24,0,0,0.1342776,360,1320}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,600,1320}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,600,1200}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,1200}";
+},
+{
+name = "brick-151";
+transform = "{0.24,0,0,0.1342776,480,1440}";
+},
+{
+name = "brick-11";
+transform = "{0.24,0,0,0.1342776,0,1440}";
+},
+{
+name = "brick-139";
+transform = "{0.24,0,0,0.1342776,240,1320}";
+},
+{
+name = "brick-159";
+transform = "{0.24,0,0,0.1342776,120,1320}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,240,1440}";
+},
+{
+name = "brick-159";
+transform = "{0.24,0,0,0.1342776,0,1320}";
+},
+);
+},
+);
+},
+{
+glyphname = a;
+unicode = 0061;
+layers = (
+{
+layerId = 185275;
+name = Regular;
+width = 1200;
+components = (
+{
+name = "brick-12";
+transform = "{0.24,0,0,0.1342776,720,720}";
+},
+{
+name = "brick-151";
+transform = "{0.24,0,0,0.1342776,600,840}";
+},
+{
+name = "brick-161";
+transform = "{0.24,0,0,0.1342776,360,840}";
+},
+{
+name = "brick-159";
+transform = "{0.24,0,0,0.1342776,360,720}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,600,720}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,600,600}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,600}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,600,480}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,480}";
+},
+{
+name = "brick-151";
+transform = "{0.24,0,0,0.1342776,480,840}";
+},
+{
+name = "brick-11";
+transform = "{0.24,0,0,0.1342776,0,840}";
+},
+{
+name = "brick-139";
+transform = "{0.24,0,0,0.1342776,240,720}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,600,240}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,240}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,600,360}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,360}";
+},
+{
+name = "brick-13";
+transform = "{0.24,0,0,0.1342776,720,0}";
+},
+{
+name = "brick-161";
+transform = "{0.24,0,0,0.1342776,360,120}";
+},
+{
+name = "brick-159";
+transform = "{0.24,0,0,0.1342776,360,0}";
+},
+{
+name = "brick-151";
+transform = "{0.24,0,0,0.1342776,480,120}";
+},
+{
+name = "brick-153";
+transform = "{0.24,0,0,0.1342776,120,0}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,240,120}";
+},
+{
+name = "brick-161";
+transform = "{0.24,0,0,0.1342776,360,480}";
+},
+{
+name = "brick-159";
+transform = "{0.24,0,0,0.1342776,360,360}";
+},
+{
+name = "brick-151";
+transform = "{0.24,0,0,0.1342776,480,480}";
+},
+{
+name = "brick-11";
+transform = "{0.24,0,0,0.1342776,0,480}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,240,480}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,360}";
+},
+{
+name = "brick-136";
+transform = "{0.24,0,0,0.1342776,240,360}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,360}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,240}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,240,240}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,240}";
+},
+{
+name = "brick-14";
+transform = "{0.24,0,0,0.1342776,0,120}";
+},
+{
+name = "brick-159";
+transform = "{0.24,0,0,0.1342776,120,720}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,240,840}";
+},
+{
+name = "brick-159";
+transform = "{0.24,0,0,0.1342776,0,720}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,600,120}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,120}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,600,0}";
+},
+);
+},
+);
+},
+{
+glyphname = b;
+unicode = 0062;
+layers = (
+{
+layerId = 185275;
+name = Regular;
+width = 1200;
+components = (
+{
+name = "brick-12";
+transform = "{0.24,0,0,0.1342776,120,1440}";
+},
+{
+name = "brick-151";
+transform = "{0.24,0,0,0.1342776,0,1560}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,1320}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,0,1440}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,240,1320}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,1200}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,480}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,600}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,720}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,840}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,480}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,600}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,720}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,840}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,1200}";
+},
+{
+name = "brick-12";
+transform = "{0.24,0,0,0.1342776,720,720}";
+},
+{
+name = "brick-151";
+transform = "{0.24,0,0,0.1342776,600,840}";
+},
+{
+name = "brick-161";
+transform = "{0.24,0,0,0.1342776,360,840}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,600,720}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,600,600}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,600}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,600,480}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,480}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,960}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,1080}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,960}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,1080}";
+},
+{
+name = "brick-159";
+transform = "{0.24,0,0,0.1342776,360,720}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,240}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,360}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,360}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,240}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,600,240}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,240}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,600,360}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,360}";
+},
+{
+name = "brick-13";
+transform = "{0.24,0,0,0.1342776,720,0}";
+},
+{
+name = "brick-161";
+transform = "{0.24,0,0,0.1342776,360,120}";
+},
+{
+name = "brick-159";
+transform = "{0.24,0,0,0.1342776,360,0}";
+},
+{
+name = "brick-151";
+transform = "{0.24,0,0,0.1342776,480,120}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,120}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,600,120}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,600,0}";
+},
+{
+name = "brick-153";
+transform = "{0.24,0,0,0.1342776,120,0}";
+},
+{
+name = "brick-14";
+transform = "{0.24,0,0,0.1342776,0,120}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,240,120}";
+},
+);
+},
+);
+},
+{
+glyphname = c;
+unicode = 0063;
+layers = (
+{
+layerId = 185275;
+name = Regular;
+width = 1200;
+components = (
+{
+name = "brick-12";
+transform = "{0.24,0,0,0.1342776,720,720}";
+},
+{
+name = "brick-151";
+transform = "{0.24,0,0,0.1342776,600,840}";
+},
+{
+name = "brick-161";
+transform = "{0.24,0,0,0.1342776,360,840}";
+},
+{
+name = "brick-159";
+transform = "{0.24,0,0,0.1342776,360,720}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,600,720}";
+},
+{
+name = "brick-151";
+transform = "{0.24,0,0,0.1342776,480,840}";
+},
+{
+name = "brick-11";
+transform = "{0.24,0,0,0.1342776,0,840}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,240,840}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,720}";
+},
+{
+name = "brick-136";
+transform = "{0.24,0,0,0.1342776,240,720}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,720}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,600}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,600}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,360}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,480}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,360}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,480}";
+},
+{
+name = "brick-13";
+transform = "{0.24,0,0,0.1342776,720,0}";
+},
+{
+name = "brick-161";
+transform = "{0.24,0,0,0.1342776,360,120}";
+},
+{
+name = "brick-159";
+transform = "{0.24,0,0,0.1342776,360,0}";
+},
+{
+name = "brick-151";
+transform = "{0.24,0,0,0.1342776,480,120}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,600,0}";
+},
+{
+name = "brick-153";
+transform = "{0.24,0,0,0.1342776,120,0}";
+},
+{
+name = "brick-14";
+transform = "{0.24,0,0,0.1342776,0,120}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,240,120}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,600,120}";
+},
+{
+name = "brick-161";
+transform = "{0.24,0,0,0.1342776,720,120}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,240}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,240}";
+},
+{
+name = "brick-139";
+transform = "{0.24,0,0,0.1342776,840,600}";
+},
+{
+name = "brick-159";
+transform = "{0.24,0,0,0.1342776,720,600}";
+},
+{
+name = "brick-159";
+transform = "{0.24,0,0,0.1342776,600,600}";
+},
+);
+},
+);
+},
+{
+glyphname = d;
+unicode = 0064;
+layers = (
+{
+layerId = 185275;
+name = Regular;
+width = 1200;
+components = (
+{
+name = "brick-161";
+transform = "{0.24,0,0,0.1342776,360,840}";
+},
+{
+name = "brick-159";
+transform = "{0.24,0,0,0.1342776,360,720}";
+},
+{
+name = "brick-151";
+transform = "{0.24,0,0,0.1342776,480,840}";
+},
+{
+name = "brick-11";
+transform = "{0.24,0,0,0.1342776,0,840}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,240,840}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,720}";
+},
+{
+name = "brick-136";
+transform = "{0.24,0,0,0.1342776,240,720}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,720}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,600}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,600}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,480}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,480}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,600,480}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,480}";
+},
+{
+name = "brick-12";
+transform = "{0.24,0,0,0.1342776,720,1440}";
+},
+{
+name = "brick-151";
+transform = "{0.24,0,0,0.1342776,600,1560}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,600,1320}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,600,1440}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,840,1320}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,600,1200}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,600,600}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,600,720}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,600,840}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,600}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,720}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,840}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,1200}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,600,960}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,600,1080}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,960}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,1080}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,240}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,360}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,360}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,240}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,600,240}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,240}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,600,360}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,360}";
+},
+{
+name = "brick-13";
+transform = "{0.24,0,0,0.1342776,720,0}";
+},
+{
+name = "brick-161";
+transform = "{0.24,0,0,0.1342776,360,120}";
+},
+{
+name = "brick-159";
+transform = "{0.24,0,0,0.1342776,360,0}";
+},
+{
+name = "brick-151";
+transform = "{0.24,0,0,0.1342776,480,120}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,120}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,600,120}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,600,0}";
+},
+{
+name = "brick-153";
+transform = "{0.24,0,0,0.1342776,120,0}";
+},
+{
+name = "brick-14";
+transform = "{0.24,0,0,0.1342776,0,120}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,240,120}";
+},
+);
+},
+);
+},
+{
+glyphname = e;
+unicode = 0065;
+layers = (
+{
+layerId = 185275;
+name = Regular;
+width = 1200;
+components = (
+{
+name = "brick-12";
+transform = "{0.24,0,0,0.1342776,720,720}";
+},
+{
+name = "brick-151";
+transform = "{0.24,0,0,0.1342776,600,840}";
+},
+{
+name = "brick-161";
+transform = "{0.24,0,0,0.1342776,360,840}";
+},
+{
+name = "brick-159";
+transform = "{0.24,0,0,0.1342776,360,720}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,600,720}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,600,600}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,600}";
+},
+{
+name = "brick-151";
+transform = "{0.24,0,0,0.1342776,480,840}";
+},
+{
+name = "brick-11";
+transform = "{0.24,0,0,0.1342776,0,840}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,240,840}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,720}";
+},
+{
+name = "brick-136";
+transform = "{0.24,0,0,0.1342776,240,720}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,720}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,600}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,600}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,480}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,480}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,240}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,360}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,360}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,240}";
+},
+{
+name = "brick-13";
+transform = "{0.24,0,0,0.1342776,720,0}";
+},
+{
+name = "brick-161";
+transform = "{0.24,0,0,0.1342776,360,120}";
+},
+{
+name = "brick-159";
+transform = "{0.24,0,0,0.1342776,360,0}";
+},
+{
+name = "brick-151";
+transform = "{0.24,0,0,0.1342776,480,120}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,600,0}";
+},
+{
+name = "brick-153";
+transform = "{0.24,0,0,0.1342776,120,0}";
+},
+{
+name = "brick-14";
+transform = "{0.24,0,0,0.1342776,0,120}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,240,120}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,600,120}";
+},
+{
+name = "brick-161";
+transform = "{0.24,0,0,0.1342776,720,120}";
+},
+{
+name = "brick-13";
+transform = "{0.24,0,0,0.1342776,720,360}";
+},
+{
+name = "brick-161";
+transform = "{0.24,0,0,0.1342776,360,480}";
+},
+{
+name = "brick-159";
+transform = "{0.24,0,0,0.1342776,360,360}";
+},
+{
+name = "brick-151";
+transform = "{0.24,0,0,0.1342776,480,480}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,480}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,600,480}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,600,360}";
+},
+);
+},
+);
+},
+{
+glyphname = f;
+unicode = 0066;
+layers = (
+{
+layerId = 185275;
+name = Regular;
+width = 840;
+components = (
+{
+name = "brick-161";
+transform = "{0.24,0,0,0.1342776,360,1440}";
+},
+{
+name = "brick-159";
+transform = "{0.24,0,0,0.1342776,360,1320}";
+},
+{
+name = "brick-11";
+transform = "{0.24,0,0,0.1342776,0,1440}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,1320}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,1320}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,1200}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,1200}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,600}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,720}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,840}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,960}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,1080}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,960}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,1080}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,600}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,720}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,840}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,240,1440}";
+},
+{
+name = "brick-136";
+transform = "{0.24,0,0,0.1342776,240,1320}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,240}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,360}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,480}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,240}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,360}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,480}";
+},
+{
+name = "brick-159";
+transform = "{0.24,0,0,0.1342776,120,0}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,120}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,120}";
+},
+{
+name = "brick-153";
+transform = "{0.24,0,0,0.1342776,120,-120}";
+},
+{
+name = "brick-14";
+transform = "{0.24,0,0,0.1342776,0,0}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,240,0}";
+},
+{
+name = "brick-161";
+transform = "{0.24,0,0,0.1342776,360,960}";
+},
+{
+name = "brick-159";
+transform = "{0.24,0,0,0.1342776,360,840}";
+},
+{
+name = "brick-161";
+transform = "{0.24,0,0,0.1342776,-120,1080}";
+},
+{
+name = "brick-159";
+transform = "{0.24,0,0,0.1342776,-120,960}";
+},
+);
+},
+);
+},
+{
+glyphname = g;
+unicode = 0067;
+layers = (
+{
+layerId = 185275;
+name = Regular;
+width = 1200;
+components = (
+{
+name = "brick-12";
+transform = "{0.24,0,0,0.1342776,720,720}";
+},
+{
+name = "brick-151";
+transform = "{0.24,0,0,0.1342776,600,840}";
+},
+{
+name = "brick-161";
+transform = "{0.24,0,0,0.1342776,360,840}";
+},
+{
+name = "brick-159";
+transform = "{0.24,0,0,0.1342776,360,720}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,600,720}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,600,600}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,600}";
+},
+{
+name = "brick-151";
+transform = "{0.24,0,0,0.1342776,480,840}";
+},
+{
+name = "brick-11";
+transform = "{0.24,0,0,0.1342776,0,840}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,240,840}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,720}";
+},
+{
+name = "brick-136";
+transform = "{0.24,0,0,0.1342776,240,720}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,720}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,600}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,600}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,480}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,480}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,600,0}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,600,120}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,600,240}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,120}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,240}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,0}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,600,360}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,600,480}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,360}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,480}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,600,-360}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,600,-240}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,600,-120}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,-360}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,-240}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,-120}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,240}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,360}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,360}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,240}";
+},
+{
+name = "brick-161";
+transform = "{0.24,0,0,0.1342776,360,120}";
+},
+{
+name = "brick-159";
+transform = "{0.24,0,0,0.1342776,360,0}";
+},
+{
+name = "brick-14";
+transform = "{0.24,0,0,0.1342776,0,120}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,240,120}";
+},
+{
+name = "brick-153";
+transform = "{0.24,0,0,0.1342776,120,0}";
+},
+{
+name = "brick-161";
+transform = "{0.24,0,0,0.1342776,360,-360}";
+},
+{
+name = "brick-159";
+transform = "{0.24,0,0,0.1342776,360,-480}";
+},
+{
+name = "brick-153";
+transform = "{0.24,0,0,0.1342776,120,-480}";
+},
+{
+name = "brick-14";
+transform = "{0.24,0,0,0.1342776,0,-360}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,240,-360}";
+},
+{
+name = "brick-13";
+transform = "{0.24,0,0,0.1342776,720,-480}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,600,-480}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,0,-240}";
+},
+{
+name = "brick-161";
+transform = "{0.24,0,0,0.1342776,120,-240}";
+},
+);
+},
+);
+},
+{
+glyphname = h;
+unicode = 0068;
+layers = (
+{
+layerId = 185275;
+name = Regular;
+width = 1200;
+components = (
+{
+name = "brick-12";
+transform = "{0.24,0,0,0.1342776,120,1440}";
+},
+{
+name = "brick-151";
+transform = "{0.24,0,0,0.1342776,0,1560}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,1320}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,0,1440}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,240,1320}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,1200}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,360}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,480}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,600}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,720}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,840}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,360}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,480}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,600}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,720}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,840}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,1200}";
+},
+{
+name = "brick-12";
+transform = "{0.24,0,0,0.1342776,720,720}";
+},
+{
+name = "brick-151";
+transform = "{0.24,0,0,0.1342776,600,840}";
+},
+{
+name = "brick-161";
+transform = "{0.24,0,0,0.1342776,360,840}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,600,720}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,600,600}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,600}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,600,360}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,600,480}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,360}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,480}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,960}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,1080}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,960}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,1080}";
+},
+{
+name = "brick-159";
+transform = "{0.24,0,0,0.1342776,360,720}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,240}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,240}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,600,240}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,240}";
+},
+{
+name = "brick-153";
+transform = "{0.24,0,0,0.1342776,120,0}";
+},
+{
+name = "brick-14";
+transform = "{0.24,0,0,0.1342776,0,120}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,240,120}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,600,120}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,120}";
+},
+{
+name = "brick-153";
+transform = "{0.24,0,0,0.1342776,720,-120}";
+},
+{
+name = "brick-14";
+transform = "{0.24,0,0,0.1342776,600,0}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,840,0}";
+},
+);
+},
+);
+},
+{
+glyphname = i;
+unicode = 0069;
+layers = (
+{
+layerId = 185275;
+name = Regular;
+width = 600;
+components = (
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,600}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,600}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,240}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,360}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,480}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,360}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,480}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,240}";
+},
+{
+name = "brick-136";
+transform = "{0.24,0,0,0.1342776,240,720}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,720}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,720}";
+},
+{
+name = "brick-12";
+transform = "{0.24,0,0,0.1342776,120,1440}";
+},
+{
+name = "brick-151";
+transform = "{0.24,0,0,0.1342776,0,1560}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,1320}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,0,1440}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,240,1320}";
+},
+{
+name = "brick-12";
+transform = "{0.24,0,0,0.1342776,120,840}";
+},
+{
+name = "brick-151";
+transform = "{0.24,0,0,0.1342776,0,960}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,0,840}";
+},
+{
+name = "brick-159";
+transform = "{0.24,0,0,0.1342776,120,1200}";
+},
+{
+name = "brick-153";
+transform = "{0.24,0,0,0.1342776,120,1080}";
+},
+{
+name = "brick-14";
+transform = "{0.24,0,0,0.1342776,0,1200}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,240,1200}";
+},
+{
+name = "brick-159";
+transform = "{0.24,0,0,0.1342776,120,0}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,120}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,120}";
+},
+{
+name = "brick-153";
+transform = "{0.24,0,0,0.1342776,120,-120}";
+},
+{
+name = "brick-14";
+transform = "{0.24,0,0,0.1342776,0,0}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,240,0}";
+},
+);
+},
+);
+},
+{
+glyphname = j;
+unicode = 006A;
+layers = (
+{
+layerId = 185275;
+name = Regular;
+width = 600;
+components = (
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,0}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,120}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,240}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,360}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,360}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,0}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,120}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,240}";
+},
+{
+name = "brick-12";
+transform = "{0.24,0,0,0.1342776,120,1320}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,-120}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,-120}";
+},
+{
+name = "brick-142";
+transform = "{0.24,0,0,0.1342776,-120,-360}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,600}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,600}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,480}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,480}";
+},
+{
+name = "brick-136";
+transform = "{0.24,0,0,0.1342776,240,720}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,720}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,720}";
+},
+{
+name = "brick-12";
+transform = "{0.24,0,0,0.1342776,120,1440}";
+},
+{
+name = "brick-151";
+transform = "{0.24,0,0,0.1342776,0,1560}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,1320}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,0,1440}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,240,1320}";
+},
+{
+name = "brick-12";
+transform = "{0.24,0,0,0.1342776,120,840}";
+},
+{
+name = "brick-151";
+transform = "{0.24,0,0,0.1342776,0,960}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,0,840}";
+},
+{
+name = "brick-159";
+transform = "{0.24,0,0,0.1342776,120,1200}";
+},
+{
+name = "brick-153";
+transform = "{0.24,0,0,0.1342776,120,1080}";
+},
+{
+name = "brick-14";
+transform = "{0.24,0,0,0.1342776,0,1200}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,240,1200}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,-360}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,-240}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,-360}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,-240}";
+},
+{
+name = "brick-161";
+transform = "{0.24,0,0,0.1342776,-240,-360}";
+},
+{
+name = "brick-159";
+transform = "{0.24,0,0,0.1342776,-240,-480}";
+},
+{
+name = "brick-13";
+transform = "{0.24,0,0,0.1342776,120,-480}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,0,-480}";
+},
+);
+},
+);
+},
+{
+glyphname = k;
+unicode = 006B;
+layers = (
+{
+layerId = 185275;
+name = Regular;
+width = 1200;
+components = (
+{
+name = "brick-12";
+transform = "{0.24,0,0,0.1342776,120,1440}";
+},
+{
+name = "brick-151";
+transform = "{0.24,0,0,0.1342776,0,1560}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,1320}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,0,1440}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,240,1320}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,1200}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,360}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,480}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,600}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,720}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,840}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,360}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,480}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,600}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,720}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,840}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,1200}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,960}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,1080}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,960}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,1080}";
+},
+{
+name = "brick-12";
+transform = "{0.24,0,0,0.1342776,720,360}";
+},
+{
+name = "brick-168";
+transform = "{0.24,0,0,0.1342776,600,480}";
+},
+{
+name = "brick-123";
+transform = "{0.24,0,0,0.1342776,360,480}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,600,360}";
+},
+{
+name = "brick-151";
+transform = "{0.24,0,0,0.1342776,480,480}";
+},
+{
+name = "brick-13";
+transform = "{0.24,0,0,0.1342776,720,600}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,600,600}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,600,720}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,720}";
+},
+{
+name = "brick-159";
+transform = "{0.24,0,0,0.1342776,360,360}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,240}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,240}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,600,240}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,240}";
+},
+{
+name = "brick-153";
+transform = "{0.24,0,0,0.1342776,120,0}";
+},
+{
+name = "brick-14";
+transform = "{0.24,0,0,0.1342776,0,120}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,240,120}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,600,120}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,120}";
+},
+{
+name = "brick-153";
+transform = "{0.24,0,0,0.1342776,720,-120}";
+},
+{
+name = "brick-14";
+transform = "{0.24,0,0,0.1342776,600,0}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,840,0}";
+},
+{
+name = "brick-12";
+transform = "{0.24,0,0,0.1342776,720,840}";
+},
+{
+name = "brick-151";
+transform = "{0.24,0,0,0.1342776,600,960}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,600,840}";
+},
+);
+},
+);
+},
+{
+glyphname = l;
+unicode = 006C;
+layers = (
+{
+layerId = 185275;
+name = Regular;
+width = 600;
+components = (
+{
+name = "brick-12";
+transform = "{0.24,0,0,0.1342776,120,1440}";
+},
+{
+name = "brick-151";
+transform = "{0.24,0,0,0.1342776,0,1560}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,1320}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,0,1440}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,240,1320}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,1200}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,480}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,600}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,720}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,840}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,480}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,600}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,720}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,840}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,1200}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,960}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,1080}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,960}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,1080}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,360}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,360}";
+},
+{
+name = "brick-159";
+transform = "{0.24,0,0,0.1342776,120,0}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,240}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,240}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,120}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,120}";
+},
+{
+name = "brick-153";
+transform = "{0.24,0,0,0.1342776,120,-120}";
+},
+{
+name = "brick-14";
+transform = "{0.24,0,0,0.1342776,0,0}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,240,0}";
+},
+);
+},
+);
+},
+{
+glyphname = m;
+unicode = 006D;
+layers = (
+{
+layerId = 185275;
+name = Regular;
+width = 1800;
+components = (
+{
+name = "brick-161";
+transform = "{0.24,0,0,0.1342776,360,960}";
+},
+{
+name = "brick-159";
+transform = "{0.24,0,0,0.1342776,360,840}";
+},
+{
+name = "brick-11";
+transform = "{0.24,0,0,0.1342776,0,960}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,240,960}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,840}";
+},
+{
+name = "brick-136";
+transform = "{0.24,0,0,0.1342776,240,840}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,840}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,720}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,720}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,480}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,480}";
+},
+{
+name = "brick-12";
+transform = "{0.24,0,0,0.1342776,1320,720}";
+},
+{
+name = "brick-151";
+transform = "{0.24,0,0,0.1342776,1200,840}";
+},
+{
+name = "brick-161";
+transform = "{0.24,0,0,0.1342776,960,840}";
+},
+{
+name = "brick-159";
+transform = "{0.24,0,0,0.1342776,960,720}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,1200,720}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,1200,600}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,1320,600}";
+},
+{
+name = "brick-151";
+transform = "{0.24,0,0,0.1342776,1080,840}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,600,720}";
+},
+{
+name = "brick-136";
+transform = "{0.24,0,0,0.1342776,840,720}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,720}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,600,600}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,600}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,600,480}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,480}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,600,360}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,360}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,1200,360}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,1200,480}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,1320,360}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,1320,480}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,360}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,360}";
+},
+{
+name = "brick-153";
+transform = "{0.24,0,0,0.1342776,120,120}";
+},
+{
+name = "brick-14";
+transform = "{0.24,0,0,0.1342776,0,240}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,240,240}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,600,240}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,240}";
+},
+{
+name = "brick-153";
+transform = "{0.24,0,0,0.1342776,720,0}";
+},
+{
+name = "brick-14";
+transform = "{0.24,0,0,0.1342776,600,120}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,840,120}";
+},
+{
+name = "brick-151";
+transform = "{0.24,0,0,0.1342776,600,960}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,600}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,600}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,840}";
+},
+{
+name = "brick-12";
+transform = "{0.24,0,0,0.1342776,600,840}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,1200,240}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,1320,240}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,1200,120}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,1320,120}";
+},
+{
+name = "brick-153";
+transform = "{0.24,0,0,0.1342776,1320,-120}";
+},
+{
+name = "brick-14";
+transform = "{0.24,0,0,0.1342776,1200,0}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,1440,0}";
+},
+);
+},
+);
+},
+{
+glyphname = n;
+unicode = 006E;
+layers = (
+{
+layerId = 185275;
+name = Regular;
+width = 1200;
+components = (
+{
+name = "brick-12";
+transform = "{0.24,0,0,0.1342776,720,720}";
+},
+{
+name = "brick-151";
+transform = "{0.24,0,0,0.1342776,600,840}";
+},
+{
+name = "brick-161";
+transform = "{0.24,0,0,0.1342776,360,840}";
+},
+{
+name = "brick-159";
+transform = "{0.24,0,0,0.1342776,360,720}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,600,720}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,600,600}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,600}";
+},
+{
+name = "brick-151";
+transform = "{0.24,0,0,0.1342776,480,840}";
+},
+{
+name = "brick-11";
+transform = "{0.24,0,0,0.1342776,0,840}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,240,840}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,720}";
+},
+{
+name = "brick-136";
+transform = "{0.24,0,0,0.1342776,240,720}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,720}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,600}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,600}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,480}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,480}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,360}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,360}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,600,360}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,600,480}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,360}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,480}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,240}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,240}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,600,240}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,240}";
+},
+{
+name = "brick-153";
+transform = "{0.24,0,0,0.1342776,120,0}";
+},
+{
+name = "brick-14";
+transform = "{0.24,0,0,0.1342776,0,120}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,240,120}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,600,120}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,120}";
+},
+{
+name = "brick-153";
+transform = "{0.24,0,0,0.1342776,720,-120}";
+},
+{
+name = "brick-14";
+transform = "{0.24,0,0,0.1342776,600,0}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,840,0}";
+},
+);
+},
+);
+},
+{
+glyphname = o;
+unicode = 006F;
+layers = (
+{
+layerId = 185275;
+name = Regular;
+width = 1200;
+components = (
+{
+name = "brick-12";
+transform = "{0.24,0,0,0.1342776,720,720}";
+},
+{
+name = "brick-151";
+transform = "{0.24,0,0,0.1342776,600,840}";
+},
+{
+name = "brick-161";
+transform = "{0.24,0,0,0.1342776,360,840}";
+},
+{
+name = "brick-159";
+transform = "{0.24,0,0,0.1342776,360,720}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,600,720}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,600,600}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,600}";
+},
+{
+name = "brick-151";
+transform = "{0.24,0,0,0.1342776,480,840}";
+},
+{
+name = "brick-11";
+transform = "{0.24,0,0,0.1342776,0,840}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,240,840}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,720}";
+},
+{
+name = "brick-136";
+transform = "{0.24,0,0,0.1342776,240,720}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,720}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,600}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,600}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,240}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,360}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,480}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,360}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,480}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,240}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,600,240}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,240}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,600,360}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,600,480}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,360}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,480}";
+},
+{
+name = "brick-13";
+transform = "{0.24,0,0,0.1342776,720,0}";
+},
+{
+name = "brick-161";
+transform = "{0.24,0,0,0.1342776,360,120}";
+},
+{
+name = "brick-159";
+transform = "{0.24,0,0,0.1342776,360,0}";
+},
+{
+name = "brick-151";
+transform = "{0.24,0,0,0.1342776,480,120}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,120}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,600,120}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,600,0}";
+},
+{
+name = "brick-153";
+transform = "{0.24,0,0,0.1342776,120,0}";
+},
+{
+name = "brick-14";
+transform = "{0.24,0,0,0.1342776,0,120}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,240,120}";
+},
+);
+},
+);
+},
+{
+glyphname = p;
+unicode = 0070;
+layers = (
+{
+layerId = 185275;
+name = Regular;
+width = 1200;
+components = (
+{
+name = "brick-12";
+transform = "{0.24,0,0,0.1342776,720,720}";
+},
+{
+name = "brick-151";
+transform = "{0.24,0,0,0.1342776,600,840}";
+},
+{
+name = "brick-161";
+transform = "{0.24,0,0,0.1342776,360,840}";
+},
+{
+name = "brick-159";
+transform = "{0.24,0,0,0.1342776,360,720}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,600,720}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,600,600}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,600}";
+},
+{
+name = "brick-151";
+transform = "{0.24,0,0,0.1342776,480,840}";
+},
+{
+name = "brick-11";
+transform = "{0.24,0,0,0.1342776,0,840}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,240,840}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,720}";
+},
+{
+name = "brick-136";
+transform = "{0.24,0,0,0.1342776,240,720}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,720}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,600}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,600}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,120}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,240}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,360}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,480}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,360}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,480}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,120}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,240}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,600,360}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,600,480}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,360}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,480}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,-240}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,-120}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,-240}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,-120}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,0}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,0}";
+},
+{
+name = "brick-159";
+transform = "{0.24,0,0,0.1342776,120,-480}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,-360}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,-360}";
+},
+{
+name = "brick-153";
+transform = "{0.24,0,0,0.1342776,120,-600}";
+},
+{
+name = "brick-14";
+transform = "{0.24,0,0,0.1342776,0,-480}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,240,-480}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,600,240}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,240}";
+},
+{
+name = "brick-13";
+transform = "{0.24,0,0,0.1342776,720,0}";
+},
+{
+name = "brick-161";
+transform = "{0.24,0,0,0.1342776,360,120}";
+},
+{
+name = "brick-159";
+transform = "{0.24,0,0,0.1342776,360,0}";
+},
+{
+name = "brick-151";
+transform = "{0.24,0,0,0.1342776,480,120}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,120}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,600,120}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,600,0}";
+},
+);
+},
+);
+},
+{
+glyphname = q;
+unicode = 0071;
+layers = (
+{
+layerId = 185275;
+name = Regular;
+width = 1200;
+components = (
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,600,-240}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,600,-120}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,-240}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,-120}";
+},
+{
+name = "brick-12";
+transform = "{0.24,0,0,0.1342776,720,720}";
+},
+{
+name = "brick-151";
+transform = "{0.24,0,0,0.1342776,600,840}";
+},
+{
+name = "brick-161";
+transform = "{0.24,0,0,0.1342776,360,840}";
+},
+{
+name = "brick-159";
+transform = "{0.24,0,0,0.1342776,360,720}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,600,720}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,600,600}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,600}";
+},
+{
+name = "brick-151";
+transform = "{0.24,0,0,0.1342776,480,840}";
+},
+{
+name = "brick-11";
+transform = "{0.24,0,0,0.1342776,0,840}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,240,840}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,720}";
+},
+{
+name = "brick-136";
+transform = "{0.24,0,0,0.1342776,240,720}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,720}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,600}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,600}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,480}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,480}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,600,0}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,600,120}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,600,240}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,120}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,240}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,0}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,600,360}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,600,480}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,360}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,480}";
+},
+{
+name = "brick-159";
+transform = "{0.24,0,0,0.1342776,720,-480}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,600,-360}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,-360}";
+},
+{
+name = "brick-153";
+transform = "{0.24,0,0,0.1342776,720,-600}";
+},
+{
+name = "brick-14";
+transform = "{0.24,0,0,0.1342776,600,-480}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,840,-480}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,240}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,360}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,360}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,240}";
+},
+{
+name = "brick-161";
+transform = "{0.24,0,0,0.1342776,360,120}";
+},
+{
+name = "brick-159";
+transform = "{0.24,0,0,0.1342776,360,0}";
+},
+{
+name = "brick-151";
+transform = "{0.24,0,0,0.1342776,480,120}";
+},
+{
+name = "brick-153";
+transform = "{0.24,0,0,0.1342776,120,0}";
+},
+{
+name = "brick-14";
+transform = "{0.24,0,0,0.1342776,0,120}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,240,120}";
+},
+);
+},
+);
+},
+{
+glyphname = r;
+unicode = 0072;
+layers = (
+{
+layerId = 185275;
+name = Regular;
+width = 840;
+components = (
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,720}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,600}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,600}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,480}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,480}";
+},
+{
+name = "brick-12";
+transform = "{0.24,0,0,0.1342776,120,840}";
+},
+{
+name = "brick-151";
+transform = "{0.24,0,0,0.1342776,0,960}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,720}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,0,840}";
+},
+{
+name = "brick-11";
+transform = "{0.24,0,0,0.1342776,360,720}";
+},
+{
+name = "brick-63";
+transform = "{0.24,0,0,0.1342776,360,480}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,360,600}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,480,600}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,360}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,360}";
+},
+{
+name = "brick-159";
+transform = "{0.24,0,0,0.1342776,120,0}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,240}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,240}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,120}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,120}";
+},
+{
+name = "brick-153";
+transform = "{0.24,0,0,0.1342776,120,-120}";
+},
+{
+name = "brick-14";
+transform = "{0.24,0,0,0.1342776,0,0}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,240,0}";
+},
+);
+},
+);
+},
+{
+glyphname = s;
+unicode = 0073;
+layers = (
+{
+layerId = 185275;
+name = Regular;
+width = 1200;
+components = (
+{
+name = "brick-12";
+transform = "{0.24,0,0,0.1342776,720,360}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,600,360}";
+},
+{
+name = "brick-14";
+transform = "{0.24,0,0,0.1342776,0,480}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,240,480}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,240,600}";
+},
+{
+name = "brick-161";
+transform = "{0.24,0,0,0.1342776,360,480}";
+},
+{
+name = "brick-151";
+transform = "{0.24,0,0,0.1342776,600,480}";
+},
+{
+name = "brick-153";
+transform = "{0.24,0,0,0.1342776,120,360}";
+},
+{
+name = "brick-159";
+transform = "{0.24,0,0,0.1342776,360,360}";
+},
+{
+name = "brick-12";
+transform = "{0.24,0,0,0.1342776,720,720}";
+},
+{
+name = "brick-151";
+transform = "{0.24,0,0,0.1342776,600,840}";
+},
+{
+name = "brick-161";
+transform = "{0.24,0,0,0.1342776,360,840}";
+},
+{
+name = "brick-159";
+transform = "{0.24,0,0,0.1342776,360,720}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,600,720}";
+},
+{
+name = "brick-151";
+transform = "{0.24,0,0,0.1342776,480,840}";
+},
+{
+name = "brick-11";
+transform = "{0.24,0,0,0.1342776,0,840}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,240,840}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,720}";
+},
+{
+name = "brick-136";
+transform = "{0.24,0,0,0.1342776,240,720}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,720}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,600}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,600}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,600,240}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,240}";
+},
+{
+name = "brick-13";
+transform = "{0.24,0,0,0.1342776,720,0}";
+},
+{
+name = "brick-161";
+transform = "{0.24,0,0,0.1342776,360,120}";
+},
+{
+name = "brick-159";
+transform = "{0.24,0,0,0.1342776,360,0}";
+},
+{
+name = "brick-151";
+transform = "{0.24,0,0,0.1342776,480,120}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,120}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,600,120}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,600,0}";
+},
+{
+name = "brick-153";
+transform = "{0.24,0,0,0.1342776,120,0}";
+},
+{
+name = "brick-14";
+transform = "{0.24,0,0,0.1342776,0,120}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,240,120}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,0,240}";
+},
+{
+name = "brick-139";
+transform = "{0.24,0,0,0.1342776,840,600}";
+},
+{
+name = "brick-159";
+transform = "{0.24,0,0,0.1342776,720,600}";
+},
+{
+name = "brick-159";
+transform = "{0.24,0,0,0.1342776,600,600}";
+},
+{
+name = "brick-161";
+transform = "{0.24,0,0,0.1342776,120,240}";
+},
+);
+},
+);
+},
+{
+glyphname = t;
+unicode = 0074;
+layers = (
+{
+layerId = 185275;
+name = Regular;
+width = 840;
+components = (
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,1200}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,600}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,720}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,600}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,720}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,480}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,480}";
+},
+{
+name = "brick-12";
+transform = "{0.24,0,0,0.1342776,120,1320}";
+},
+{
+name = "brick-151";
+transform = "{0.24,0,0,0.1342776,0,1440}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,1200}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,0,1320}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,240,1200}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,240}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,360}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,360}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,240}";
+},
+{
+name = "brick-161";
+transform = "{0.24,0,0,0.1342776,360,120}";
+},
+{
+name = "brick-159";
+transform = "{0.24,0,0,0.1342776,360,0}";
+},
+{
+name = "brick-153";
+transform = "{0.24,0,0,0.1342776,120,0}";
+},
+{
+name = "brick-14";
+transform = "{0.24,0,0,0.1342776,0,120}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,240,120}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,840}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,960}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,1080}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,960}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,1080}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,840}";
+},
+{
+name = "brick-161";
+transform = "{0.24,0,0,0.1342776,360,960}";
+},
+{
+name = "brick-159";
+transform = "{0.24,0,0,0.1342776,360,840}";
+},
+{
+name = "brick-161";
+transform = "{0.24,0,0,0.1342776,-120,1080}";
+},
+{
+name = "brick-159";
+transform = "{0.24,0,0,0.1342776,-120,960}";
+},
+);
+},
+);
+},
+{
+glyphname = u;
+unicode = 0075;
+layers = (
+{
+layerId = 185275;
+name = Regular;
+width = 1200;
+components = (
+{
+name = "brick-12";
+transform = "{0.24,0,0,0.1342776,720,720}";
+},
+{
+name = "brick-151";
+transform = "{0.24,0,0,0.1342776,600,840}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,600,720}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,600,600}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,600}";
+},
+{
+name = "brick-136";
+transform = "{0.24,0,0,0.1342776,240,720}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,600}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,600}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,240}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,360}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,480}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,360}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,480}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,240}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,600,240}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,240}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,600,360}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,600,480}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,360}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,480}";
+},
+{
+name = "brick-13";
+transform = "{0.24,0,0,0.1342776,720,0}";
+},
+{
+name = "brick-161";
+transform = "{0.24,0,0,0.1342776,360,120}";
+},
+{
+name = "brick-159";
+transform = "{0.24,0,0,0.1342776,360,0}";
+},
+{
+name = "brick-151";
+transform = "{0.24,0,0,0.1342776,480,120}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,120}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,600,120}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,600,0}";
+},
+{
+name = "brick-153";
+transform = "{0.24,0,0,0.1342776,120,0}";
+},
+{
+name = "brick-14";
+transform = "{0.24,0,0,0.1342776,0,120}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,240,120}";
+},
+{
+name = "brick-12";
+transform = "{0.24,0,0,0.1342776,120,840}";
+},
+{
+name = "brick-151";
+transform = "{0.24,0,0,0.1342776,0,960}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,0,840}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,720}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,720}";
+},
+);
+},
+);
+},
+{
+glyphname = v;
+unicode = 0076;
+layers = (
+{
+layerId = 185275;
+name = Regular;
+width = 1200;
+components = (
+{
+name = "brick-12";
+transform = "{0.24,0,0,0.1342776,720,720}";
+},
+{
+name = "brick-151";
+transform = "{0.24,0,0,0.1342776,600,840}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,600,720}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,600,600}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,600}";
+},
+{
+name = "brick-136";
+transform = "{0.24,0,0,0.1342776,240,720}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,600}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,600}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,240}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,360}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,480}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,360}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,480}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,240}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,600,240}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,240}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,600,480}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,480}";
+},
+{
+name = "brick-153";
+transform = "{0.24,0,0,0.1342776,120,0}";
+},
+{
+name = "brick-14";
+transform = "{0.24,0,0,0.1342776,0,120}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,240,120}";
+},
+{
+name = "brick-12";
+transform = "{0.24,0,0,0.1342776,120,840}";
+},
+{
+name = "brick-151";
+transform = "{0.24,0,0,0.1342776,0,960}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,0,840}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,720}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,720}";
+},
+{
+name = "brick-178";
+transform = "{0.24,0,0,0.1342776,600,0}";
+},
+{
+name = "brick-13";
+transform = "{0.24,0,0,0.1342776,720,120}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,600,120}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,600,360}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,360}";
+},
+{
+name = "brick-140";
+transform = "{0.24,0,0,0.1342776,360,0}";
+},
+{
+name = "brick-123";
+transform = "{0.24,0,0,0.1342776,360,120}";
+},
+{
+name = "brick-118";
+transform = "{0.24,0,0,0.1342776,240,0}";
+},
+{
+name = "brick-116";
+transform = "{0.24,0,0,0.1342776,480,0}";
+},
+);
+},
+);
+},
+{
+glyphname = w;
+unicode = 0077;
+layers = (
+{
+layerId = 185275;
+name = Regular;
+width = 1800;
+components = (
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,600}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,600}";
+},
+{
+name = "brick-136";
+transform = "{0.24,0,0,0.1342776,240,720}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,240,360}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,1200,480}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,1320,480}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,840,360}";
+},
+{
+name = "brick-12";
+transform = "{0.24,0,0,0.1342776,1320,720}";
+},
+{
+name = "brick-151";
+transform = "{0.24,0,0,0.1342776,1200,840}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,1200,720}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,1200,600}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,1320,600}";
+},
+{
+name = "brick-136";
+transform = "{0.24,0,0,0.1342776,840,720}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,600,600}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,600}";
+},
+{
+name = "brick-12";
+transform = "{0.24,0,0,0.1342776,720,840}";
+},
+{
+name = "brick-151";
+transform = "{0.24,0,0,0.1342776,600,960}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,600,840}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,600,720}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,720}";
+},
+{
+name = "brick-136";
+transform = "{0.24,0,0,0.1342776,240,840}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,720}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,720}";
+},
+{
+name = "brick-12";
+transform = "{0.24,0,0,0.1342776,120,960}";
+},
+{
+name = "brick-151";
+transform = "{0.24,0,0,0.1342776,0,1080}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,0,960}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,840}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,840}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,1200,240}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,1320,240}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,1200,360}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,1320,360}";
+},
+{
+name = "brick-13";
+transform = "{0.24,0,0,0.1342776,1320,0}";
+},
+{
+name = "brick-161";
+transform = "{0.24,0,0,0.1342776,960,120}";
+},
+{
+name = "brick-159";
+transform = "{0.24,0,0,0.1342776,960,0}";
+},
+{
+name = "brick-151";
+transform = "{0.24,0,0,0.1342776,1080,120}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,1320,120}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,1200,120}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,1200,0}";
+},
+{
+name = "brick-153";
+transform = "{0.24,0,0,0.1342776,720,0}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,840,120}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,360}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,480}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,480}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,360}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,600,360}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,360}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,600,480}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,480}";
+},
+{
+name = "brick-13";
+transform = "{0.24,0,0,0.1342776,720,120}";
+},
+{
+name = "brick-161";
+transform = "{0.24,0,0,0.1342776,360,240}";
+},
+{
+name = "brick-159";
+transform = "{0.24,0,0,0.1342776,360,120}";
+},
+{
+name = "brick-151";
+transform = "{0.24,0,0,0.1342776,480,240}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,240}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,600,240}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,600,120}";
+},
+{
+name = "brick-153";
+transform = "{0.24,0,0,0.1342776,120,120}";
+},
+{
+name = "brick-14";
+transform = "{0.24,0,0,0.1342776,0,240}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,240,240}";
+},
+);
+},
+);
+},
+{
+glyphname = x;
+unicode = 0078;
+layers = (
+{
+layerId = 185275;
+name = Regular;
+width = 1200;
+components = (
+{
+name = "brick-12";
+transform = "{0.24,0,0,0.1342776,720,360}";
+},
+{
+name = "brick-168";
+transform = "{0.24,0,0,0.1342776,600,480}";
+},
+{
+name = "brick-123";
+transform = "{0.24,0,0,0.1342776,360,480}";
+},
+{
+name = "brick-125";
+transform = "{0.24,0,0,0.1342776,360,360}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,600,360}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,600,240}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,240}";
+},
+{
+name = "brick-151";
+transform = "{0.24,0,0,0.1342776,480,480}";
+},
+{
+name = "brick-14";
+transform = "{0.24,0,0,0.1342776,0,480}";
+},
+{
+name = "brick-166";
+transform = "{0.24,0,0,0.1342776,120,360}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,600}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,240,480}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,240,600}";
+},
+{
+name = "brick-11";
+transform = "{0.24,0,0,0.1342776,0,240}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,240,240}";
+},
+{
+name = "brick-171";
+transform = "{0.24,0,0,0.1342776,120,240}";
+},
+{
+name = "brick-13";
+transform = "{0.24,0,0,0.1342776,720,600}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,600,600}";
+},
+{
+name = "brick-153";
+transform = "{0.24,0,0,0.1342776,120,0}";
+},
+{
+name = "brick-14";
+transform = "{0.24,0,0,0.1342776,0,120}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,240,120}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,600,120}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,120}";
+},
+{
+name = "brick-153";
+transform = "{0.24,0,0,0.1342776,720,-120}";
+},
+{
+name = "brick-14";
+transform = "{0.24,0,0,0.1342776,600,0}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,840,0}";
+},
+{
+name = "brick-12";
+transform = "{0.24,0,0,0.1342776,720,720}";
+},
+{
+name = "brick-151";
+transform = "{0.24,0,0,0.1342776,600,840}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,600,720}";
+},
+{
+name = "brick-136";
+transform = "{0.24,0,0,0.1342776,240,720}";
+},
+{
+name = "brick-12";
+transform = "{0.24,0,0,0.1342776,120,840}";
+},
+{
+name = "brick-151";
+transform = "{0.24,0,0,0.1342776,0,960}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,0,840}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,720}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,720}";
+},
+);
+},
+);
+},
+{
+glyphname = y;
+unicode = 0079;
+layers = (
+{
+layerId = 185275;
+name = Regular;
+width = 1200;
+components = (
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,480}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,480}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,600,480}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,480}";
+},
+{
+name = "brick-139";
+transform = "{0.24,0,0,0.1342776,240,-240}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,600,0}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,600,120}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,600,240}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,120}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,240}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,0}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,600,360}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,360}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,600,-360}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,600,-240}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,600,-120}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,-360}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,-240}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,-120}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,240}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,360}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,360}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,240}";
+},
+{
+name = "brick-161";
+transform = "{0.24,0,0,0.1342776,360,120}";
+},
+{
+name = "brick-159";
+transform = "{0.24,0,0,0.1342776,360,0}";
+},
+{
+name = "brick-14";
+transform = "{0.24,0,0,0.1342776,0,120}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,240,120}";
+},
+{
+name = "brick-153";
+transform = "{0.24,0,0,0.1342776,120,0}";
+},
+{
+name = "brick-161";
+transform = "{0.24,0,0,0.1342776,360,-360}";
+},
+{
+name = "brick-159";
+transform = "{0.24,0,0,0.1342776,360,-480}";
+},
+{
+name = "brick-153";
+transform = "{0.24,0,0,0.1342776,120,-480}";
+},
+{
+name = "brick-14";
+transform = "{0.24,0,0,0.1342776,0,-360}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,240,-360}";
+},
+{
+name = "brick-13";
+transform = "{0.24,0,0,0.1342776,720,-480}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,600,-480}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,0,-240}";
+},
+{
+name = "brick-161";
+transform = "{0.24,0,0,0.1342776,120,-240}";
+},
+{
+name = "brick-12";
+transform = "{0.24,0,0,0.1342776,720,720}";
+},
+{
+name = "brick-151";
+transform = "{0.24,0,0,0.1342776,600,840}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,600,720}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,600,600}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,600}";
+},
+{
+name = "brick-136";
+transform = "{0.24,0,0,0.1342776,240,720}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,600}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,600}";
+},
+{
+name = "brick-12";
+transform = "{0.24,0,0,0.1342776,120,840}";
+},
+{
+name = "brick-151";
+transform = "{0.24,0,0,0.1342776,0,960}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,0,840}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,720}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,720}";
+},
+);
+},
+);
+},
+{
+glyphname = z;
+unicode = 007A;
+layers = (
+{
+layerId = 185275;
+name = Regular;
+width = 1200;
+components = (
+{
+name = "brick-11";
+transform = "{0.24,0,0,0.1342776,0,360}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,240,240}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,240,360}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,0,240}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,120,240}";
+},
+{
+name = "brick-171";
+transform = "{0.24,0,0,0.1342776,120,360}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,600,480}";
+},
+{
+name = "brick-175";
+transform = "{0.24,0,0,0.1342776,120,480}";
+},
+{
+name = "brick-171";
+transform = "{0.24,0,0,0.1342776,360,480}";
+},
+{
+name = "brick-173";
+transform = "{0.24,0,0,0.1342776,360,360}";
+},
+{
+name = "brick-178";
+transform = "{0.24,0,0,0.1342776,600,360}";
+},
+{
+name = "brick-13";
+transform = "{0.24,0,0,0.1342776,720,480}";
+},
+{
+name = "brick-12";
+transform = "{0.24,0,0,0.1342776,720,720}";
+},
+{
+name = "brick-151";
+transform = "{0.24,0,0,0.1342776,600,840}";
+},
+{
+name = "brick-161";
+transform = "{0.24,0,0,0.1342776,360,840}";
+},
+{
+name = "brick-159";
+transform = "{0.24,0,0,0.1342776,360,720}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,600,720}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,600,600}";
+},
+{
+name = "brick-1";
+transform = "{0.24,0,0,0.1342776,720,600}";
+},
+{
+name = "brick-151";
+transform = "{0.24,0,0,0.1342776,480,840}";
+},
+{
+name = "brick-161";
+transform = "{0.24,0,0,0.1342776,360,120}";
+},
+{
+name = "brick-159";
+transform = "{0.24,0,0,0.1342776,360,0}";
+},
+{
+name = "brick-151";
+transform = "{0.24,0,0,0.1342776,480,120}";
+},
+{
+name = "brick-153";
+transform = "{0.24,0,0,0.1342776,120,0}";
+},
+{
+name = "brick-14";
+transform = "{0.24,0,0,0.1342776,0,120}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,240,120}";
+},
+{
+name = "brick-11";
+transform = "{0.24,0,0,0.1342776,0,840}";
+},
+{
+name = "brick-139";
+transform = "{0.24,0,0,0.1342776,240,720}";
+},
+{
+name = "brick-159";
+transform = "{0.24,0,0,0.1342776,120,720}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,240,840}";
+},
+{
+name = "brick-159";
+transform = "{0.24,0,0,0.1342776,0,720}";
+},
+{
+name = "brick-13";
+transform = "{0.24,0,0,0.1342776,720,0}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,600,0}";
+},
+{
+name = "brick-143";
+transform = "{0.24,0,0,0.1342776,600,120}";
+},
+{
+name = "brick-161";
+transform = "{0.24,0,0,0.1342776,720,120}";
+},
+);
+},
+);
+},
+(
+{
+glyphname = "brick-12";
+layers = (
+{
+layerId = 185275;
+name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"1000.0 0.0 LINE",
+"1000.0 552.0 OFFCURVE",
+"553.0 1000.0 OFFCURVE",
+"0.0 1000.0 CURVE SMOOTH",
+"0.0 0.0 LINE",
+);
+},
+);
+width = 1000;
+},
+);
+},
+{
+glyphname = "brick-151";
+layers = (
+{
+layerId = 185275;
+name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"0.0 500.0 LINE",
+"0.0 0.0 LINE",
+"1000.0 0.0 LINE",
+);
+},
+);
+width = 1000;
+},
+);
+},
+{
+glyphname = "brick-1";
+layers = (
+{
+layerId = 185275;
+name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"0.0 0.0 LINE",
+"1000.0 0.0 LINE",
+"1000.0 1000.0 LINE",
+"0.0 1000.0 LINE",
+);
+},
+);
+width = 1000;
+},
+);
+},
+{
+glyphname = "brick-143";
+layers = (
+{
+layerId = 185275;
+name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"0.0 0.0 LINE",
+"500.0 0.0 LINE",
+"500.0 1000.0 LINE",
+"0.0 1000.0 LINE",
+);
+},
+);
+width = 1000;
+},
+);
+},
+{
+glyphname = "brick-161";
+layers = (
+{
+layerId = 185275;
+name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"0.0 0.0 LINE",
+"1000.0 0.0 LINE",
+"1000.0 500.0 LINE",
+"0.0 1000.0 LINE",
+);
+},
+);
+width = 1000;
+},
+);
+},
+{
+glyphname = "brick-159";
+layers = (
+{
+layerId = 185275;
+name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"1000.0 1000.0 LINE",
+"0.0 1000.0 LINE",
+"0.0 500.0 LINE",
+"1000.0 0.0 LINE",
+);
+},
+);
+width = 1000;
+},
+);
+},
+{
+glyphname = "brick-11";
+layers = (
+{
+layerId = 185275;
+name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"1000.0 1000.0 LINE",
+"448.0 1000.0 OFFCURVE",
+"0.0 553.0 OFFCURVE",
+"0.0 0.0 CURVE SMOOTH",
+"1000.0 0.0 LINE",
+);
+},
+);
+width = 1000;
+},
+);
+},
+{
+glyphname = "brick-175";
+layers = (
+{
+layerId = 185275;
+name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"0.0 0.0 LINE",
+"1000.0 0.0 LINE",
+"1000.0 500.0 LINE",
+);
+},
+);
+width = 1000;
+},
+);
+},
+{
+glyphname = "brick-171";
+layers = (
+{
+layerId = 185275;
+name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"1000.0 1000.0 LINE",
+"0.0 500.0 LINE",
+"0.0 0.0 LINE",
+"1000.0 0.0 LINE",
+);
+},
+);
+width = 1000;
+},
+);
+},
+{
+glyphname = "brick-178";
+layers = (
+{
+layerId = 185275;
+name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"1000.0 1000.0 LINE",
+"0.0 1000.0 LINE",
+"0.0 500.0 LINE",
+);
+},
+);
+width = 1000;
+},
+);
+},
+{
+glyphname = "brick-139";
+layers = (
+{
+layerId = 185275;
+name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"0.0 0.0 LINE",
+"500.0 0.0 LINE",
+"500.0 500.0 LINE",
+"0.0 500.0 LINE",
+);
+},
+);
+width = 1000;
+},
+);
+},
+{
+glyphname = "brick-136";
+layers = (
+{
+layerId = 185275;
+name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"0.0 500.0 LINE",
+"500.0 500.0 LINE",
+"500.0 1000.0 LINE",
+"0.0 1000.0 LINE",
+);
+},
+);
+width = 1000;
+},
+);
+},
+{
+glyphname = "brick-140";
+layers = (
+{
+layerId = 185275;
+name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"0.0 500.0 LINE",
+"1000.0 500.0 LINE",
+"1000.0 1000.0 LINE",
+"0.0 1000.0 LINE",
+);
+},
+);
+width = 1000;
+},
+);
+},
+{
+glyphname = "brick-142";
+layers = (
+{
+layerId = 185275;
+name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"0.0 0.0 LINE",
+"1000.0 0.0 LINE",
+"1000.0 500.0 LINE",
+"0.0 500.0 LINE",
+);
+},
+);
+width = 1000;
+},
+);
+},
+{
+glyphname = "brick-14";
+layers = (
+{
+layerId = 185275;
+name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"0.0 1000.0 LINE",
+"0.0 448.0 OFFCURVE",
+"447.0 0.0 OFFCURVE",
+"1000.0 0.0 CURVE SMOOTH",
+"1000.0 1000.0 LINE",
+);
+},
+);
+width = 1000;
+},
+);
+},
+{
+glyphname = "brick-166";
+layers = (
+{
+layerId = 185275;
+name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"1000.0 500.0 LINE",
+"1000.0 1000.0 LINE",
+"0.0 1000.0 LINE",
+);
+},
+{
+closed = 1;
+nodes = (
+"0.0 0.0 LINE",
+"1000.0 0.0 LINE",
+"1000.0 500.0 LINE",
+);
+},
+);
+width = 1000;
+},
+);
+},
+{
+glyphname = "brick-168";
+layers = (
+{
+layerId = 185275;
+name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"0.0 500.0 LINE",
+"0.0 0.0 LINE",
+"1000.0 0.0 LINE",
+);
+},
+{
+closed = 1;
+nodes = (
+"1000.0 1000.0 LINE",
+"0.0 1000.0 LINE",
+"0.0 500.0 LINE",
+);
+},
+);
+width = 1000;
+},
+);
+},
+{
+glyphname = "brick-13";
+layers = (
+{
+layerId = 185275;
+name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"0.0 0.0 LINE",
+"552.0 0.0 OFFCURVE",
+"1000.0 447.0 OFFCURVE",
+"1000.0 1000.0 CURVE SMOOTH",
+"0.0 1000.0 LINE",
+);
+},
+);
+width = 1000;
+},
+);
+},
+{
+glyphname = "brick-125";
+layers = (
+{
+layerId = 185275;
+name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"500.0 500.0 LINE",
+"1000.0 4.0 LINE",
+"1000.0 1000.0 LINE",
+"0.0 1000.0 LINE",
+"0.0 0.0 LINE",
+);
+},
+);
+width = 1000;
+},
+);
+},
+{
+glyphname = "brick-123";
+layers = (
+{
+layerId = 185275;
+name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"500.0 500.0 LINE",
+"0.0 996.0 LINE",
+"0.0 0.0 LINE",
+"1000.0 0.0 LINE",
+"1000.0 1000.0 LINE",
+);
+},
+);
+width = 1000;
+},
+);
+},
+{
+glyphname = "brick-153";
+layers = (
+{
+layerId = 185275;
+name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"1000.0 500.0 LINE",
+"1000.0 1000.0 LINE",
+"0.0 1000.0 LINE",
+);
+},
+);
+width = 1000;
+},
+);
+},
+{
+glyphname = "brick-173";
+layers = (
+{
+layerId = 185275;
+name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"0.0 0.0 LINE",
+"1000.0 500.0 LINE",
+"1000.0 1000.0 LINE",
+"0.0 1000.0 LINE",
+);
+},
+);
+width = 1000;
+},
+);
+},
+{
+glyphname = "brick-63";
+layers = (
+{
+layerId = 185275;
+name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"0.0 1000.0 LINE",
+"0.0 0.0 LINE",
+"0.0 552.0 OFFCURVE",
+"448.0 1000.0 OFFCURVE",
+"1000.0 1000.0 CURVE SMOOTH",
+);
+},
+);
+width = 1000;
+},
+);
+},
+{
+glyphname = "brick-118";
+layers = (
+{
+layerId = 185275;
+name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"500.0 500.0 LINE",
+"1000.0 0.0 LINE",
+"1000.0 1000.0 LINE",
+);
+},
+);
+width = 1000;
+},
+);
+},
+{
+glyphname = "brick-116";
+layers = (
+{
+layerId = 185275;
+name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"500.0 500.0 LINE",
+"0.0 1000.0 LINE",
+"0.0 0.0 LINE",
+);
+},
+);
+width = 1000;
+},
+);
+},
+),
+);
+disablesNiceNames = 1;
+instances = (
+{
+name = Regular;
+},
+);
+manufacturer = "https://fontstruct.com";
+manufacturerURL = "https://www.fontstruct.com";
+unitsPerEm = 2048;
+versionMajor = 1;
+versionMinor = 0;
+kerning = {
+185275 = ();
+};
+}
